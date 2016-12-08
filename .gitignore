@@ -1,0 +1,12 @@
+.idea/*
+*.sublime-project
+*.sublime-workspace
+composer.lock
+composer.phar
+/nbproject/
+/vendor/
+.vagrant
+Vagrantfile
+Dockerfile
+/build
+/tests/_support/_generated/*.php
